@@ -1,4 +1,6 @@
 # 8-Bit-Odd-or-Even-Using-8085
+# NAME: D VIGNESH
+#REGISTER NUMBER: 212224050059
 
 ## Aim:
 To write an 8085 microprocessor program to check whether a given 8-bit number is odd or even.
